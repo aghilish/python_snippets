@@ -1,8 +1,4 @@
-# A section title
-
-## A subsection title
-
-## Python Snippets
+# (re)usable snipptes for common python task
 
 - JPG2PNG
 - PDFMERGER
